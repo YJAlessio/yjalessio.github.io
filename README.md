@@ -5,7 +5,7 @@ Projects
 ---
 <ul>
   <li>
-    <a href="/aeon">Project Aeon [whitepaper]</a>
+    <a href="/aeon">Project Aeon [whitepaper]</a> ./aeon/
   </li>
 </ul>
 
